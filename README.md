@@ -1,4 +1,5 @@
 ⚡️ FlashChat
+
 FlashChat is a modern, real-time chat application for Android. It's built with a 100% Kotlin-first approach, featuring a sleek UI crafted with Jetpack Compose and powered by Firebase for backend services. This project is a perfect showcase of modern Android development best practices.
 
 ✨ Core Features
